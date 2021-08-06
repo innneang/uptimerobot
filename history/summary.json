@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Medtalk",
     "url": "https://medtalk.in.th",
     "icon": "https://favicons.githubusercontent.com/medtalk.in.th",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 779,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "time": 798,
+    "timeDay": 798,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 446,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 424,
-    "timeWeek": 424,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "time": 420,
+    "timeDay": 420,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/thaireal.estate",
     "slug": "thaireal-estate",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 847,
-    "timeDay": 847,
-    "timeWeek": 847,
-    "timeMonth": 847,
-    "timeYear": 847,
+    "uptime": "98.03%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
+    "time": 840,
+    "timeDay": 840,
+    "timeWeek": 840,
+    "timeMonth": 840,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2021-08-06": 0
+      "2021-08-06": 4
     }
   },
   {
@@ -102,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 577,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 582,
+    "timeDay": 582,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {}
   },
   {
@@ -115,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "thaireal-estate",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 847,
-    "timeDay": 847,
-    "timeWeek": 847,
-    "timeMonth": 847,
-    "timeYear": 847,
+    "uptime": "98.03%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
+    "time": 840,
+    "timeDay": 840,
+    "timeWeek": 840,
+    "timeMonth": 840,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2021-08-06": 0
+      "2021-08-06": 4
     }
   }
 ]
