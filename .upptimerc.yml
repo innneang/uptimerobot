@@ -36,7 +36,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/2 * * * *"
+  uptime: "* * * * *"
   
 i18n:
   footer: Made with ♥ by @innnoppa
