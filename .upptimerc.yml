@@ -13,7 +13,7 @@ sites:
     url: https://thaireal.estate
   - name: Protutor
     url: https://protutor.in.th
-  - name: Thaireal.estate 🤖
+  - name: Merlin 🤖
     url: $SCRAPE
 
 status-website:
