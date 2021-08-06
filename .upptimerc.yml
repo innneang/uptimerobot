@@ -15,7 +15,7 @@ sites:
     url: https://thaireal.estate
   - name: Protutor
     url: https://protutor.in.th
-  - name: Merlin Scrape
+  - name: Thaireal.estate 🤖
     url: $SCRAPE
 
 status-website:
@@ -40,7 +40,5 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/2 * * * *"
   
- i18n:
+i18n:
   footer: Made with ♥ by @innnoppa
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
