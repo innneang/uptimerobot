@@ -1,6 +1,6 @@
 # Change these first
 owner: innneang # Your GitHub organization or username, where this repository lives
-repo: upptimerobot # The name of this repository
+repo: uptimerobot # The name of this repository
 
 sites:
   - name: Google
