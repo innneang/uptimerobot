@@ -94,19 +94,19 @@
     "url": "$SCRAPE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "merlin",
-    "status": "up",
-    "uptime": "73.93%",
-    "uptimeDay": "70.67%",
-    "uptimeWeek": "73.93%",
-    "uptimeMonth": "73.93%",
-    "uptimeYear": "73.93%",
+    "status": "down",
+    "uptime": "74.87%",
+    "uptimeDay": "71.63%",
+    "uptimeWeek": "74.87%",
+    "uptimeMonth": "74.87%",
+    "uptimeYear": "74.87%",
     "time": 27452,
     "timeDay": 27234,
     "timeWeek": 27452,
     "timeMonth": 27452,
     "timeYear": 27452,
     "dailyMinutesDown": {
-      "2021-08-07": 208,
+      "2021-08-07": 194,
       "2021-08-06": 235
     }
   }
