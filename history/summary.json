@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "merlin",
     "status": "up",
-    "uptime": "66.40%",
-    "uptimeDay": "59.60%",
-    "uptimeWeek": "66.40%",
-    "uptimeMonth": "66.40%",
-    "uptimeYear": "66.40%",
+    "uptime": "67.39%",
+    "uptimeDay": "60.06%",
+    "uptimeWeek": "67.39%",
+    "uptimeMonth": "67.39%",
+    "uptimeYear": "67.39%",
     "time": 27294,
     "timeDay": 27488,
     "timeWeek": 27294,
     "timeMonth": 27294,
     "timeYear": 27294,
     "dailyMinutesDown": {
-      "2021-08-07": 582,
+      "2021-08-07": 575,
       "2021-08-06": 235
     }
   }
