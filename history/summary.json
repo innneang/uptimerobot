@@ -4,9 +4,9 @@
     "url": "https://medtalk.in.th",
     "icon": "https://favicons.githubusercontent.com/medtalk.in.th",
     "slug": "medtalk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 889,
     "timeMonth": 831,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-14": 0
+    }
   },
   {
     "name": "CDL",
@@ -61,18 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/thaireal.estate",
     "slug": "thaireal-estate",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1055,
     "timeDay": 3169,
     "timeWeek": 1422,
     "timeMonth": 1055,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2021-08-14": 8,
       "2021-08-11": 16
     }
   },
