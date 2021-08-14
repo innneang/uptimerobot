@@ -4,19 +4,19 @@
     "url": "https://medtalk.in.th",
     "icon": "https://favicons.githubusercontent.com/medtalk.in.th",
     "slug": "medtalk",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 886,
-    "timeDay": 1253,
-    "timeWeek": 1030,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 900,
+    "timeDay": 1267,
+    "timeWeek": 1056,
+    "timeMonth": 900,
+    "timeYear": 900,
     "dailyMinutesDown": {
-      "2021-08-14": 55
+      "2021-08-14": 70
     }
   },
   {
