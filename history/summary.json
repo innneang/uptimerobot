@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/medtalk.in.th",
     "slug": "medtalk",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 935,
-    "timeDay": 960,
-    "timeWeek": 1179,
-    "timeMonth": 935,
-    "timeYear": 935,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 939,
+    "timeDay": 1087,
+    "timeWeek": 1096,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2021-08-14": 55
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 588,
-    "timeDay": 589,
-    "timeWeek": 473,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "time": 590,
+    "timeDay": 667,
+    "timeWeek": 507,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2021-08-12": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 415,
-    "timeWeek": 431,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 425,
+    "timeDay": 510,
+    "timeWeek": 436,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 942,
-    "timeDay": 418,
-    "timeWeek": 1339,
-    "timeMonth": 942,
-    "timeYear": 942,
+    "time": 935,
+    "timeDay": 688,
+    "timeWeek": 475,
+    "timeMonth": 935,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2021-08-11": 16
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 770,
-    "timeWeek": 690,
-    "timeMonth": 696,
-    "timeYear": 696,
+    "time": 700,
+    "timeDay": 832,
+    "timeWeek": 727,
+    "timeMonth": 700,
+    "timeYear": 700,
     "dailyMinutesDown": {}
   }
 ]
