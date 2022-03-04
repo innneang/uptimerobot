@@ -55,19 +55,19 @@
     "url": "https://innnblog.com",
     "icon": "https://favicons.githubusercontent.com/innnblog.com",
     "slug": "innnblog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 397,
-    "timeDay": 216,
-    "timeWeek": 288,
-    "timeMonth": 340,
+    "timeDay": 228,
+    "timeWeek": 284,
+    "timeMonth": 337,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2022-03-04": 0
+      "2022-03-04": 10
     }
   },
   {
